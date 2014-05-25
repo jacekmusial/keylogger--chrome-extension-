@@ -6,7 +6,7 @@
     "activeTab"
   ],
   "browser_action": {
-    "default_title": "Make things good",
+    "default_title": "Make things good"
 //    "default_icon" : "icon.png"
   },
   "content_scripts": [
